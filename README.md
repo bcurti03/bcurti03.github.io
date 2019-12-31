@@ -1,2 +1,2 @@
-# bcurti03.github.io
+# blairjecurtis.github.io
 Personal Website
