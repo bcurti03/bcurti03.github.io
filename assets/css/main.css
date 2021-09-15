@@ -2010,7 +2010,7 @@ input, select, textarea {
 		width: 100%;
 		z-index: 10000;
 		cursor: default;
-		height: 3.5em;
+		height: 7em;
 		line-height: 3.5em;
 	}
 
